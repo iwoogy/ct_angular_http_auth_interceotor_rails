@@ -1,0 +1,4 @@
+require "ct_angular_http_auth_interceotor_rails/engine"
+
+module CtAngularHttpAuthInterceotorRails
+end

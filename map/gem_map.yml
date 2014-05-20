@@ -1,0 +1,11 @@
+---
+module:
+  name: "http-auth-interceptor"
+uis:
+  - name: authService
+    type: service
+actions:
+  javascript:
+    include?: true
+  module:
+    include?: true  
